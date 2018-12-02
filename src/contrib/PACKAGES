@@ -3,7 +3,7 @@ Version: 0.1.0.1415
 Depends: R (>= 3.2.0)
 Imports: data.table, grattan
 License: CC BY 4.0
-MD5sum: cf7d340bec9e1db36ab4ee378b4fdc4b
+MD5sum: f92dc1da754c46e429126f0d58578ac7
 NeedsCompilation: no
 File: taxstats_0.1.0.1415.tar.gz
 
