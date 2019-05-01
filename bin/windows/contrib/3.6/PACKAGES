@@ -1,10 +1,12 @@
 Package: taxstats
-Version: 0.0.5.1415
+Version: 0.1.0.1415
 Depends: R (>= 3.2.0)
-Suggests: data.table
+Imports: data.table, grattan
 License: CC BY 4.0
+File: taxstats_0.1.0.1415.zip
 
 Package: taxstats1516
 Version: 1.0.0
 Depends: R (>= 3.1.0), data.table
 License: CC0
+File: taxstats1516_1.0.0.zip
